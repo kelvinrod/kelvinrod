@@ -1,10 +1,12 @@
-# 👤 Kelvin Rodrigues
+## 👤 Kelvin Rodrigues
 
 **`Analista de Dados Jr`**
 
-Me chamo Kelvin Rodrigues, sou formado em Gestão de TI e Analise de Dados e hoje atuo na área de custos industriais, onde analiso dados operacionais, indicadores e processos.
-Estou evoluindo como Analista de Dados, aplicando Python, SQL, Power BI e Tableau para transformar dados brutos em análises claras e insights para o negócio.
+Analista de Dados em formação, com atuação na área de Custos em ambiente industrial. No dia a dia, trabalho com análise de dados operacionais, consolidação de informações, controle de indicadores e identificação de inconsistências que impactam resultados e processos.
 
+Atualmente, estou me desenvolvendo em Análise de Dados por meio de projetos práticos utilizando Python, SQL, Power BI e Tableau, incluindo projetos desenvolvidos no bootcamp da TripleTen. Tenho foco em análise exploratória, visualização de dados e transformação de dados brutos em insights claros para apoio à tomada de decisão.
+
+Repositórios abaixo representam projetos práticos aplicados a cenários reais de negócio.
 
 ---
 
